@@ -1,0 +1,12 @@
+{
+  "name": "ip-analysis",
+  "displayName": "IP 分析",
+  "summary": "IP 地址综合分析：归属地、ASN/ISP、风险评分，聚合多源公开 API",
+  "version": "1.1.0",
+  "entry": "SKILL.md",
+  "scripts": ["scripts/ip_analysis.py", "scripts/setup_data.sh"],
+  "ks-meta": {
+    "displayName": "IP 分析",
+    "platform": ["MyFlicker-Work模式", "MyFlicker-Code模式"]
+  }
+}
