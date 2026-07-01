@@ -1,0 +1,22 @@
+[
+  {"query": "帮我查一下这个IP 103.45.67.89 是哪里的，安全不安全", "should_trigger": true},
+  {"query": "我们日志里有个ip 185.220.101.1 一直刷接口，帮我看看是不是黑产", "should_trigger": true},
+  {"query": "这个用户注册的ip 45.33.32.156 跟他填的地址不一致，帮我分析一下", "should_trigger": true},
+  {"query": "有人用VPN注册账号吗？ip 89.234.157.12 能查出来是不是代理", "should_trigger": true},
+  {"query": "ip分析一下 8.8.8.8", "should_trigger": true},
+  {"query": "帮我看下 47.96.123.45 这个阿里云ip的风险等级", "should_trigger": true},
+  {"query": "最近邮件服务器IP被拉黑了，查下是不是进了Spamhaus", "should_trigger": true},
+  {"query": "这个登录IP 172.217.14.206 是Tor出口吗", "should_trigger": true},
+  {"query": "查IP归属地 220.181.38.148", "should_trigger": true},
+  {"query": "那个ip 156.146.56.87 可不可信，帮我查查", "should_trigger": true},
+  {"query": "帮我解析 example.com 这个域名的DNS记录", "should_trigger": false},
+  {"query": "我需要对这个服务器做端口扫描，看看开了哪些端口", "should_trigger": false},
+  {"query": "帮我设计一个网络拓扑，办公室到数据中心的双线冗余方案", "should_trigger": false},
+  {"query": "把这段日志里的IP地址都提取出来，统计一下各省分布", "should_trigger": false},
+  {"query": "www.kuaishou.com 这个域名的WHOIS信息是什么", "should_trigger": false},
+  {"query": "帮我做个渗透测试，看这个目标有没有漏洞", "should_trigger": false},
+  {"query": "这个IP段的子网划分怎么算 192.168.1.0/24", "should_trigger": false},
+  {"query": "帮我配置nginx反向代理，把流量转到后端服务", "should_trigger": false},
+  {"query": "服务器网络不通了，帮我排查下路由问题", "should_trigger": false},
+  {"query": "帮我查一下快递单号 SF1234567890 到哪了", "should_trigger": false}
+]
